@@ -1,0 +1,38 @@
+body {
+    background-image: url(../img/fundo.jpg);
+}
+
+h2 {
+    color: white;
+    text-align: left;
+}
+
+label {
+    color: white;
+    font-size: 9px;
+}
+
+.caixa {
+    color: white;
+    font-size: 10px;
+}
+
+.final {
+    color: white;;
+    font-size: 10px;
+}
+
+.inicio {
+    background-color: black;
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 210px;
+    height: 300px;
+    background: black;
+    padding: 100px;
+    opacity: 80%;
+}
+
+
+
+
